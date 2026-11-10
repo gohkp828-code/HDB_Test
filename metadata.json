@@ -1,0 +1,6 @@
+{
+  "name": "SG HDB Pulse - Live Singapore Housing & Carpark Tracker",
+  "description": "Comprehensive Singapore Housing & Development Board (HDB) tracker dashboard monitoring real-time resale flat prices, rental transactions, and live carpark availability across Singapore using official Government open APIs.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
